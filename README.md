@@ -52,14 +52,10 @@ Days Booked: 3
 Base Price: ₹2000/day  
 Taxes: ₹300  
 ---------------------
-Total Bill: ₹6300  
+Total Bill: ₹6300
+````
 
+---
 
-# Clone this repository
-git clone https://github.com/your-username/hotel-management-system.git
-
-# Navigate to the project folder
-cd hotel-management-system
-
-# Run the program
-python hotel_management.py
+```bash
+```
