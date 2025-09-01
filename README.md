@@ -1,13 +1,65 @@
-Hotel Management System is a system that provides us to reserving rooms, checking
-whether the rooms are vacant are or not etc by using software. This system is very useful
-to all especially for business people. For Business people they don’t have sufficient time
-for these then they can use these types of Hotel Management Systems. By this project we
-will reduce the faults in bills of their expenditure and decrease time of delay to give the
-bills to the customers. We can also save the bills of the customer. By this project we can
-also include all the taxes on the bills according to their expenditures. It has a scope to
-reduce the errors in making the bills. Computerized bill can be printed within fraction of
-seconds. Booking is possible by using this software. This Project is based on python. If
-anyone wants to book the room for few days then they can specify the specific number by
-seeing the types of rooms we have. The bill of this booking is based on the type of room
-they can select is displayed.
+# 🏨 Hotel Management System
 
+A **Hotel Management System** built with **Python** to make hotel operations faster and easier.  
+It helps in **room reservations, vacancy checks, billing with taxes, and record keeping**.  
+This project is especially useful for hotels and business travelers who need quick and reliable service.
+
+---
+
+## ✨ Features
+
+- ✅ Room booking with different room types  
+- ✅ Instant vacancy check  
+- ✅ Automated billing with tax calculation  
+- ✅ Reduces human errors in manual billing  
+- ✅ Saves customer bills and booking history  
+- ✅ Bills generated within seconds  
+
+---
+
+## 📌 Overview
+
+- Language: **Python** 🐍  
+- Focuses on **speed, accuracy, and simplicity**  
+- Allows booking for multiple days  
+- Generates computerized bills with tax included  
+
+---
+
+## 🚀 How It Works
+
+1. Select room type 🛏️  
+2. Enter number of days 📅  
+3. System checks availability 🔎  
+4. Instant computerized bill is generated 💰  
+5. Bill can be printed or saved 🖨️  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Python** (Core language)  
+- **File Handling** for storing booking and billing data  
+- **OOP concepts** for managing system flow  
+
+---
+
+## 📷 Sample Output
+
+```bash
+Room Type: Deluxe  
+Days Booked: 3  
+Base Price: ₹2000/day  
+Taxes: ₹300  
+---------------------
+Total Bill: ₹6300  
+
+
+# Clone this repository
+git clone https://github.com/your-username/hotel-management-system.git
+
+# Navigate to the project folder
+cd hotel-management-system
+
+# Run the program
+python hotel_management.py
